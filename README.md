@@ -20,6 +20,6 @@ A web-based application that generates detailed information about medicines usin
 2. Click the "Generate" button
 3. Wait for the AI to generate detailed information about the medicine
 4. View the formatted response including:
-- Uses of the medicine
-- Side effects
-- Warnings and precautions
+  - Uses of the medicine
+  - Side effects
+  - Warnings and precautions
