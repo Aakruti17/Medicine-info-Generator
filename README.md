@@ -1,4 +1,4 @@
-![image alt](https://github.com/Aakruti17/KisanApp/blob/820951037ec711a836aecf50ed514608138dea27/Kisan%20App.png)
+![image alt](https://github.com/Aakruti17/Medicine-info-Generator/blob/86b86ab556eff1e838463c6a9fa155a4996e0579/Medicine%20Info%20Generator.png)
 # Medicine-info-Generator
 A web-based application that generates detailed information about medicines using the Google Gemini AI API. This tool helps users quickly access comprehensive information about medications, including their uses, side effects, and precautions.
 
